@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.test.signup.SignupTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-13T14:20:24" hostname="INsrinuk.local" time="0.009">
+  <properties/>
+  <testcase name="testTestNG1" classname="org.test.signup.SignupTest" time="0.006"/>
+  <testcase name="testTestNG2" classname="org.test.signup.SignupTest" time="0.0"/>
+  <testcase name="testTestNG3" classname="org.test.signup.SignupTest" time="0.001"/>
+  <testcase name="testTestNG4" classname="org.test.signup.SignupTest" time="0.0"/>
+  <testcase name="testTestNG5" classname="org.test.signup.SignupTest" time="0.001"/>
+  <system-out><![CDATA[test1 from SignupTest class
+hello2
+hello3
+hello4
+hello5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
